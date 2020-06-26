@@ -6,5 +6,4 @@ Implementation of two fast multipliers namely Wallace Tree and Dadda Tree Multip
 its comparison with classical multiplier in terms of power, gates used and LUT utilization.
 
 Team :-
-Aman Bilaiya
-Aman Dhawan
+Aman Bilaiya || Aman Dhawan
